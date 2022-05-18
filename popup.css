@@ -1,0 +1,13 @@
+.content {
+  width: 300px;
+}
+
+.form p{
+  margin-bottom: 0;
+}
+
+.translate-result{
+  overflow: scroll;
+  height: 100px;
+  border: 2px solid #636363;
+}
